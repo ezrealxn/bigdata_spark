@@ -5,7 +5,8 @@ trait TService {
   def analysis() : Any = {
 
   }
-  def analysis(data: Any): Unit ={
+
+  def analysis(data: Any): Any ={
 
   }
 
